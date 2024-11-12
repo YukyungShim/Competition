@@ -1,4 +1,4 @@
-# 자연어 처리 Kaggle Competition
+# Kaggle and Dacon Competition
 
 ## 1. Korean Hate Speech Detection
 https://www.kaggle.com/competitions/korean-hate-speech-detection/overview
@@ -69,11 +69,14 @@ url = {https://kaggle.com/competitions/korean-hate-speech-detection}
 }
 
 
+## 2. 이미지 색상화 및 손실 부분 복원 AI 경진대회
+알고리즘 | 비전 | 이미지 복원 | 이미지 색상화 | SSIM
+
+https://dacon.io/competitions/official/236420/data
 
 
 
-
-## 2. Natural Language Processing with Disaster Tweets
+## 3. Natural Language Processing with Disaster Tweets
 https://www.kaggle.com/competitions/nlp-getting-started/overview
 
 
